@@ -1,0 +1,1008 @@
+Container stores 500 shapes:
+
+1. It is a procedure Language: abstract - True; TIOBE - 75; year - 2006
+2. It is a procedure Language: abstract - True; TIOBE - 66; year - 1987
+3. It is a functional Language: typization - static; Laziness -False; TIOBE - 57; year - 2006
+4. It is a OOP Language: inheritance - one; TIOBE - 97; year - 1966
+5. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+6. It is a OOP Language: inheritance - interface; TIOBE - 45; year - 2006
+7. It is a OOP Language: inheritance - one; TIOBE - 51; year - 1982
+8. It is a OOP Language: inheritance - one; TIOBE - 14; year - 2017
+9. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+10. It is a OOP Language: inheritance - interface; TIOBE - 97; year - 1961
+11. It is a procedure Language: abstract - False; TIOBE - 97; year - 1965
+12. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+13. It is a functional Language: typization - static; Laziness -True; TIOBE - 1; year - 1989
+14. It is a procedure Language: abstract - True; TIOBE - 88; year - 1972
+15. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+16. It is a OOP Language: inheritance - interface; TIOBE - 49; year - 2009
+17. It is a OOP Language: inheritance - one; TIOBE - 10; year - 1988
+18. It is a functional Language: typization - static; Laziness -True; TIOBE - 13; year - 1991
+19. It is a procedure Language: abstract - False; TIOBE - 43; year - 1995
+20. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 2008
+21. It is a OOP Language: inheritance - one; TIOBE - 58; year - 2012
+22. It is a functional Language: typization - static; Laziness -False; TIOBE - 97; year - 1987
+23. It is a functional Language: typization - static; Laziness -True; TIOBE - 7; year - 2001
+24. It is a OOP Language: inheritance - plural; TIOBE - 26; year - 2008
+25. It is a procedure Language: abstract - True; TIOBE - 76; year - 2012
+26. It is a procedure Language: abstract - False; TIOBE - 10; year - 1995
+27. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+28. It is a procedure Language: abstract - True; TIOBE - 78; year - 2017
+29. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+30. It is a OOP Language: inheritance - plural; TIOBE - 90; year - 1991
+31. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+32. It is a functional Language: typization - static; Laziness -True; TIOBE - 78; year - 1983
+33. It is a functional Language: typization - static; Laziness -True; TIOBE - 47; year - 1969
+34. It is a procedure Language: abstract - True; TIOBE - 29; year - 1998
+35. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1970
+36. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2008
+37. It is a procedure Language: abstract - False; TIOBE - 12; year - 1993
+38. It is a functional Language: typization - static; Laziness -True; TIOBE - 43; year - 1972
+39. It is a functional Language: typization - static; Laziness -False; TIOBE - 89; year - 1997
+40. It is a OOP Language: inheritance - interface; TIOBE - 3; year - 2000
+41. It is a procedure Language: abstract - False; TIOBE - 1; year - 2012
+42. It is a functional Language: typization - static; Laziness -False; TIOBE - 75; year - 1983
+43. It is a functional Language: typization - static; Laziness -True; TIOBE - 2; year - 2010
+44. It is a OOP Language: inheritance - plural; TIOBE - 10; year - 1993
+45. It is a OOP Language: inheritance - interface; TIOBE - 11; year - 1976
+46. It is a procedure Language: abstract - True; TIOBE - 18; year - 2005
+47. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+48. It is a procedure Language: abstract - False; TIOBE - 41; year - 2003
+49. It is a functional Language: typization - static; Laziness -False; TIOBE - 27; year - 1981
+50. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+51. It is a functional Language: typization - static; Laziness -False; TIOBE - 71; year - 2009
+52. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1972
+53. It is a functional Language: typization - static; Laziness -True; TIOBE - 24; year - 2001
+54. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+55. It is a procedure Language: abstract - True; TIOBE - 18; year - 1963
+56. It is a procedure Language: abstract - True; TIOBE - 5; year - 1960
+57. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1999
+58. It is a OOP Language: inheritance - plural; TIOBE - 71; year - 1964
+59. It is a procedure Language: abstract - False; TIOBE - 1; year - 1991
+60. It is a OOP Language: inheritance - interface; TIOBE - 26; year - 1963
+61. It is a functional Language: typization - static; Laziness -True; TIOBE - 91; year - 1982
+62. It is a procedure Language: abstract - True; TIOBE - 98; year - 1972
+63. It is a OOP Language: inheritance - plural; TIOBE - 83; year - 2010
+64. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+65. It is a OOP Language: inheritance - plural; TIOBE - 55; year - 1966
+66. It is a OOP Language: inheritance - one; TIOBE - 44; year - 2008
+67. It is a functional Language: typization - static; Laziness -True; TIOBE - 33; year - 1999
+68. It is a functional Language: typization - static; Laziness -False; TIOBE - 28; year - 2016
+69. It is a procedure Language: abstract - False; TIOBE - 81; year - 1963
+70. It is a OOP Language: inheritance - plural; TIOBE - 30; year - 1993
+71. It is a OOP Language: inheritance - interface; TIOBE - 47; year - 2010
+72. It is a OOP Language: inheritance - plural; TIOBE - 35; year - 2004
+73. It is a OOP Language: inheritance - interface; TIOBE - 5; year - 2000
+74. It is a OOP Language: inheritance - plural; TIOBE - 97; year - 1974
+75. It is a OOP Language: inheritance - one; TIOBE - 90; year - 1984
+76. It is a procedure Language: abstract - False; TIOBE - 31; year - 1984
+77. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+78. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1982
+79. It is a OOP Language: inheritance - interface; TIOBE - 100; year - 1984
+80. It is a functional Language: typization - static; Laziness -False; TIOBE - 77; year - 1974
+81. It is a procedure Language: abstract - False; TIOBE - 73; year - 1982
+82. It is a procedure Language: abstract - True; TIOBE - 76; year - 2019
+83. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 1991
+84. It is a OOP Language: inheritance - one; TIOBE - 74; year - 2018
+85. It is a procedure Language: abstract - True; TIOBE - 56; year - 2017
+86. It is a procedure Language: abstract - False; TIOBE - 2; year - 1998
+87. It is a functional Language: typization - static; Laziness -False; TIOBE - 69; year - 1998
+88. It is a functional Language: typization - static; Laziness -False; TIOBE - 82; year - 1985
+89. It is a OOP Language: inheritance - interface; TIOBE - 15; year - 1986
+90. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+91. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+92. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 2018
+93. It is a OOP Language: inheritance - one; TIOBE - 87; year - 2013
+94. It is a OOP Language: inheritance - interface; TIOBE - 39; year - 1973
+95. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+96. It is a OOP Language: inheritance - interface; TIOBE - 73; year - 1973
+97. It is a procedure Language: abstract - False; TIOBE - 36; year - 1972
+98. It is a procedure Language: abstract - False; TIOBE - 61; year - 1994
+99. It is a functional Language: typization - static; Laziness -True; TIOBE - 69; year - 2017
+100. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1999
+101. It is a OOP Language: inheritance - one; TIOBE - 72; year - 2014
+102. It is a functional Language: typization - static; Laziness -True; TIOBE - 28; year - 2010
+103. It is a procedure Language: abstract - False; TIOBE - 25; year - 2010
+104. It is a functional Language: typization - static; Laziness -True; TIOBE - 34; year - 1963
+105. It is a functional Language: typization - static; Laziness -False; TIOBE - 93; year - 2008
+106. It is a OOP Language: inheritance - one; TIOBE - 42; year - 1997
+107. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+108. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1986
+109. It is a OOP Language: inheritance - one; TIOBE - 81; year - 1973
+110. It is a procedure Language: abstract - True; TIOBE - 71; year - 1993
+111. It is a OOP Language: inheritance - one; TIOBE - 52; year - 1989
+112. It is a OOP Language: inheritance - one; TIOBE - 51; year - 1960
+113. It is a procedure Language: abstract - False; TIOBE - 92; year - 2009
+114. It is a functional Language: typization - static; Laziness -True; TIOBE - 16; year - 1964
+115. It is a procedure Language: abstract - False; TIOBE - 70; year - 1989
+116. It is a OOP Language: inheritance - plural; TIOBE - 52; year - 1963
+117. It is a OOP Language: inheritance - one; TIOBE - 33; year - 1963
+118. It is a functional Language: typization - static; Laziness -True; TIOBE - 1; year - 1961
+119. It is a procedure Language: abstract - True; TIOBE - 86; year - 1968
+120. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+121. It is a OOP Language: inheritance - plural; TIOBE - 10; year - 1999
+122. It is a OOP Language: inheritance - plural; TIOBE - 71; year - 2003
+123. It is a functional Language: typization - static; Laziness -True; TIOBE - 82; year - 1963
+124. It is a OOP Language: inheritance - one; TIOBE - 67; year - 2005
+125. It is a functional Language: typization - static; Laziness -False; TIOBE - 74; year - 1980
+126. It is a OOP Language: inheritance - interface; TIOBE - 62; year - 1984
+127. It is a functional Language: typization - static; Laziness -False; TIOBE - 53; year - 2001
+128. It is a procedure Language: abstract - False; TIOBE - 55; year - 1960
+129. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1980
+130. It is a OOP Language: inheritance - one; TIOBE - 77; year - 1983
+131. It is a OOP Language: inheritance - one; TIOBE - 27; year - 1996
+132. It is a OOP Language: inheritance - one; TIOBE - 98; year - 1963
+133. It is a procedure Language: abstract - True; TIOBE - 31; year - 1967
+134. It is a procedure Language: abstract - False; TIOBE - 98; year - 2007
+135. It is a OOP Language: inheritance - plural; TIOBE - 28; year - 2011
+136. It is a procedure Language: abstract - False; TIOBE - 21; year - 2018
+137. It is a procedure Language: abstract - False; TIOBE - 50; year - 1979
+138. It is a procedure Language: abstract - False; TIOBE - 18; year - 2015
+139. It is a functional Language: typization - static; Laziness -False; TIOBE - 62; year - 1960
+140. It is a OOP Language: inheritance - interface; TIOBE - 65; year - 2015
+141. It is a procedure Language: abstract - False; TIOBE - 96; year - 2012
+142. It is a functional Language: typization - static; Laziness -True; TIOBE - 31; year - 2000
+143. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+144. It is a procedure Language: abstract - False; TIOBE - 4; year - 2015
+145. It is a functional Language: typization - static; Laziness -False; TIOBE - 16; year - 1980
+146. It is a functional Language: typization - static; Laziness -True; TIOBE - 99; year - 1977
+147. It is a OOP Language: inheritance - one; TIOBE - 80; year - 2013
+148. It is a procedure Language: abstract - False; TIOBE - 47; year - 1990
+149. It is a functional Language: typization - static; Laziness -False; TIOBE - 85; year - 2005
+150. It is a functional Language: typization - static; Laziness -True; TIOBE - 55; year - 2000
+151. It is a OOP Language: inheritance - one; TIOBE - 9; year - 1997
+152. It is a procedure Language: abstract - False; TIOBE - 23; year - 2013
+153. It is a functional Language: typization - static; Laziness -True; TIOBE - 50; year - 1990
+154. It is a procedure Language: abstract - False; TIOBE - 71; year - 1985
+155. It is a OOP Language: inheritance - one; TIOBE - 86; year - 1976
+156. It is a procedure Language: abstract - False; TIOBE - 21; year - 1990
+157. It is a functional Language: typization - static; Laziness -True; TIOBE - 41; year - 1999
+158. It is a procedure Language: abstract - False; TIOBE - 58; year - 1964
+159. It is a procedure Language: abstract - False; TIOBE - 43; year - 1983
+160. It is a OOP Language: inheritance - one; TIOBE - 21; year - 1982
+161. It is a procedure Language: abstract - True; TIOBE - 28; year - 2000
+162. It is a functional Language: typization - static; Laziness -False; TIOBE - 78; year - 1965
+163. It is a procedure Language: abstract - True; TIOBE - 53; year - 2000
+164. It is a procedure Language: abstract - False; TIOBE - 37; year - 1995
+165. It is a functional Language: typization - static; Laziness -False; TIOBE - 83; year - 1977
+166. It is a functional Language: typization - static; Laziness -True; TIOBE - 58; year - 1980
+167. It is a procedure Language: abstract - True; TIOBE - 1; year - 1969
+168. It is a OOP Language: inheritance - one; TIOBE - 93; year - 1998
+169. It is a functional Language: typization - static; Laziness -False; TIOBE - 87; year - 2009
+170. It is a procedure Language: abstract - False; TIOBE - 95; year - 2005
+171. It is a functional Language: typization - static; Laziness -True; TIOBE - 47; year - 1977
+172. It is a procedure Language: abstract - False; TIOBE - 90; year - 1974
+173. It is a OOP Language: inheritance - interface; TIOBE - 29; year - 2012
+174. It is a functional Language: typization - static; Laziness -True; TIOBE - 93; year - 1967
+175. It is a OOP Language: inheritance - interface; TIOBE - 79; year - 1998
+176. It is a procedure Language: abstract - False; TIOBE - 21; year - 1979
+177. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+178. It is a procedure Language: abstract - True; TIOBE - 2; year - 2016
+179. It is a procedure Language: abstract - False; TIOBE - 39; year - 1994
+180. It is a functional Language: typization - static; Laziness -True; TIOBE - 94; year - 2004
+181. It is a functional Language: typization - static; Laziness -False; TIOBE - 12; year - 1980
+182. It is a OOP Language: inheritance - one; TIOBE - 90; year - 2017
+183. It is a functional Language: typization - static; Laziness -False; TIOBE - 71; year - 1972
+184. It is a OOP Language: inheritance - plural; TIOBE - 42; year - 1996
+185. It is a functional Language: typization - static; Laziness -False; TIOBE - 90; year - 2009
+186. It is a OOP Language: inheritance - interface; TIOBE - 70; year - 1968
+187. It is a procedure Language: abstract - True; TIOBE - 7; year - 1964
+188. It is a OOP Language: inheritance - interface; TIOBE - 72; year - 1963
+189. It is a functional Language: typization - static; Laziness -True; TIOBE - 93; year - 1964
+190. It is a OOP Language: inheritance - plural; TIOBE - 85; year - 2009
+191. It is a procedure Language: abstract - False; TIOBE - 78; year - 1984
+192. It is a functional Language: typization - static; Laziness -False; TIOBE - 35; year - 2001
+193. It is a procedure Language: abstract - True; TIOBE - 64; year - 1976
+194. It is a procedure Language: abstract - False; TIOBE - 28; year - 1997
+195. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 1999
+196. It is a OOP Language: inheritance - plural; TIOBE - 23; year - 2011
+197. It is a procedure Language: abstract - False; TIOBE - 26; year - 1992
+198. It is a procedure Language: abstract - False; TIOBE - 28; year - 2016
+199. It is a OOP Language: inheritance - interface; TIOBE - 55; year - 2015
+200. It is a functional Language: typization - static; Laziness -False; TIOBE - 13; year - 2012
+201. It is a OOP Language: inheritance - interface; TIOBE - 36; year - 1990
+202. It is a procedure Language: abstract - True; TIOBE - 14; year - 1981
+203. It is a OOP Language: inheritance - plural; TIOBE - 9; year - 2012
+204. It is a functional Language: typization - static; Laziness -False; TIOBE - 32; year - 1978
+205. It is a procedure Language: abstract - True; TIOBE - 70; year - 2015
+206. It is a OOP Language: inheritance - interface; TIOBE - 67; year - 1986
+207. It is a procedure Language: abstract - False; TIOBE - 90; year - 1979
+208. It is a procedure Language: abstract - False; TIOBE - 94; year - 1989
+209. It is a functional Language: typization - static; Laziness -True; TIOBE - 8; year - 1997
+210. It is a functional Language: typization - static; Laziness -False; TIOBE - 33; year - 1974
+211. It is a procedure Language: abstract - True; TIOBE - 12; year - 1970
+212. It is a functional Language: typization - static; Laziness -True; TIOBE - 93; year - 1977
+213. It is a OOP Language: inheritance - one; TIOBE - 48; year - 1993
+214. It is a functional Language: typization - static; Laziness -True; TIOBE - 21; year - 1963
+215. It is a OOP Language: inheritance - plural; TIOBE - 53; year - 1969
+216. It is a OOP Language: inheritance - plural; TIOBE - 75; year - 2018
+217. It is a OOP Language: inheritance - interface; TIOBE - 86; year - 2005
+218. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 1965
+219. It is a OOP Language: inheritance - plural; TIOBE - 73; year - 2014
+220. It is a OOP Language: inheritance - one; TIOBE - 50; year - 2019
+221. It is a functional Language: typization - static; Laziness -True; TIOBE - 59; year - 2015
+222. It is a OOP Language: inheritance - one; TIOBE - 94; year - 1973
+223. It is a procedure Language: abstract - True; TIOBE - 70; year - 2000
+224. It is a procedure Language: abstract - False; TIOBE - 33; year - 1966
+225. It is a OOP Language: inheritance - one; TIOBE - 11; year - 1973
+226. It is a procedure Language: abstract - True; TIOBE - 43; year - 1987
+227. It is a procedure Language: abstract - False; TIOBE - 40; year - 1994
+228. It is a OOP Language: inheritance - one; TIOBE - 36; year - 1977
+229. It is a OOP Language: inheritance - one; TIOBE - 82; year - 1986
+230. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 1967
+231. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1979
+232. It is a OOP Language: inheritance - one; TIOBE - 81; year - 1987
+233. It is a functional Language: typization - static; Laziness -False; TIOBE - 87; year - 1970
+234. It is a OOP Language: inheritance - plural; TIOBE - 76; year - 1999
+235. It is a functional Language: typization - static; Laziness -True; TIOBE - 84; year - 1991
+236. It is a procedure Language: abstract - True; TIOBE - 74; year - 1967
+237. It is a functional Language: typization - static; Laziness -True; TIOBE - 20; year - 1965
+238. It is a procedure Language: abstract - True; TIOBE - 35; year - 2017
+239. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+240. It is a functional Language: typization - static; Laziness -False; TIOBE - 57; year - 1970
+241. It is a procedure Language: abstract - False; TIOBE - 95; year - 1968
+242. It is a functional Language: typization - static; Laziness -False; TIOBE - 91; year - 1989
+243. It is a OOP Language: inheritance - one; TIOBE - 71; year - 1978
+244. It is a procedure Language: abstract - True; TIOBE - 52; year - 2019
+245. It is a procedure Language: abstract - True; TIOBE - 80; year - 1999
+246. It is a procedure Language: abstract - True; TIOBE - 51; year - 2005
+247. It is a functional Language: typization - static; Laziness -False; TIOBE - 21; year - 1974
+248. It is a OOP Language: inheritance - plural; TIOBE - 93; year - 2002
+249. It is a functional Language: typization - static; Laziness -True; TIOBE - 21; year - 1982
+250. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 2008
+251. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1974
+252. It is a functional Language: typization - static; Laziness -False; TIOBE - 84; year - 1963
+253. It is a OOP Language: inheritance - one; TIOBE - 40; year - 2018
+254. It is a OOP Language: inheritance - plural; TIOBE - 6; year - 2004
+255. It is a procedure Language: abstract - False; TIOBE - 93; year - 2010
+256. It is a procedure Language: abstract - False; TIOBE - 70; year - 1970
+257. It is a OOP Language: inheritance - one; TIOBE - 19; year - 1969
+258. It is a functional Language: typization - static; Laziness -True; TIOBE - 48; year - 1962
+259. It is a OOP Language: inheritance - interface; TIOBE - 42; year - 1970
+260. It is a procedure Language: abstract - True; TIOBE - 47; year - 2015
+261. It is a procedure Language: abstract - True; TIOBE - 10; year - 1984
+262. It is a OOP Language: inheritance - interface; TIOBE - 45; year - 1985
+263. It is a procedure Language: abstract - True; TIOBE - 67; year - 1970
+264. It is a procedure Language: abstract - False; TIOBE - 3; year - 1980
+265. It is a procedure Language: abstract - True; TIOBE - 79; year - 1974
+266. It is a OOP Language: inheritance - interface; TIOBE - 44; year - 1972
+267. It is a functional Language: typization - static; Laziness -True; TIOBE - 80; year - 1960
+268. It is a OOP Language: inheritance - plural; TIOBE - 23; year - 1993
+269. It is a functional Language: typization - static; Laziness -True; TIOBE - 34; year - 1982
+270. It is a OOP Language: inheritance - one; TIOBE - 80; year - 1983
+271. It is a procedure Language: abstract - False; TIOBE - 38; year - 2003
+272. It is a OOP Language: inheritance - one; TIOBE - 55; year - 1998
+273. It is a OOP Language: inheritance - one; TIOBE - 47; year - 2018
+274. It is a procedure Language: abstract - True; TIOBE - 70; year - 1978
+275. It is a procedure Language: abstract - True; TIOBE - 43; year - 1994
+276. It is a procedure Language: abstract - False; TIOBE - 4; year - 1997
+277. It is a OOP Language: inheritance - interface; TIOBE - 78; year - 1988
+278. It is a OOP Language: inheritance - interface; TIOBE - 58; year - 2000
+279. It is a procedure Language: abstract - False; TIOBE - 79; year - 1975
+280. It is a procedure Language: abstract - False; TIOBE - 72; year - 2005
+281. It is a OOP Language: inheritance - one; TIOBE - 5; year - 2007
+282. It is a procedure Language: abstract - False; TIOBE - 82; year - 1994
+283. It is a OOP Language: inheritance - plural; TIOBE - 72; year - 1970
+284. It is a procedure Language: abstract - False; TIOBE - 9; year - 1966
+285. It is a functional Language: typization - static; Laziness -False; TIOBE - 45; year - 1985
+286. It is a functional Language: typization - static; Laziness -False; TIOBE - 66; year - 1983
+287. It is a functional Language: typization - static; Laziness -False; TIOBE - 38; year - 1967
+288. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2018
+289. It is a functional Language: typization - static; Laziness -True; TIOBE - 61; year - 1960
+290. It is a procedure Language: abstract - True; TIOBE - 25; year - 2000
+291. It is a procedure Language: abstract - True; TIOBE - 59; year - 1977
+292. It is a procedure Language: abstract - False; TIOBE - 6; year - 2000
+293. It is a OOP Language: inheritance - plural; TIOBE - 50; year - 2003
+294. It is a functional Language: typization - static; Laziness -False; TIOBE - 2; year - 1986
+295. It is a procedure Language: abstract - False; TIOBE - 24; year - 1985
+296. It is a procedure Language: abstract - False; TIOBE - 98; year - 1984
+297. It is a procedure Language: abstract - True; TIOBE - 97; year - 1983
+298. It is a procedure Language: abstract - True; TIOBE - 84; year - 1987
+299. It is a functional Language: typization - static; Laziness -False; TIOBE - 58; year - 1985
+300. It is a procedure Language: abstract - True; TIOBE - 58; year - 1983
+301. It is a OOP Language: inheritance - plural; TIOBE - 83; year - 2012
+302. It is a functional Language: typization - static; Laziness -True; TIOBE - 9; year - 1984
+303. It is a OOP Language: inheritance - plural; TIOBE - 12; year - 1999
+304. It is a procedure Language: abstract - False; TIOBE - 13; year - 1963
+305. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 2005
+306. It is a functional Language: typization - static; Laziness -True; TIOBE - 12; year - 2006
+307. It is a OOP Language: inheritance - one; TIOBE - 88; year - 1976
+308. It is a OOP Language: inheritance - interface; TIOBE - 42; year - 1989
+309. It is a functional Language: typization - static; Laziness -False; TIOBE - 23; year - 1993
+310. It is a functional Language: typization - static; Laziness -False; TIOBE - 73; year - 1964
+311. It is a OOP Language: inheritance - one; TIOBE - 73; year - 2003
+312. It is a procedure Language: abstract - True; TIOBE - 100; year - 1963
+313. It is a procedure Language: abstract - True; TIOBE - 12; year - 1997
+314. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 1996
+315. It is a procedure Language: abstract - True; TIOBE - 70; year - 1974
+316. It is a procedure Language: abstract - False; TIOBE - 33; year - 1990
+317. It is a procedure Language: abstract - True; TIOBE - 88; year - 1979
+318. It is a functional Language: typization - static; Laziness -False; TIOBE - 48; year - 1995
+319. It is a functional Language: typization - static; Laziness -True; TIOBE - 100; year - 1997
+320. It is a procedure Language: abstract - True; TIOBE - 37; year - 1989
+321. It is a functional Language: typization - static; Laziness -False; TIOBE - 75; year - 1990
+322. It is a OOP Language: inheritance - one; TIOBE - 95; year - 1996
+323. It is a procedure Language: abstract - True; TIOBE - 95; year - 1992
+324. It is a OOP Language: inheritance - one; TIOBE - 41; year - 2013
+325. It is a OOP Language: inheritance - one; TIOBE - 23; year - 2002
+326. It is a procedure Language: abstract - True; TIOBE - 26; year - 1970
+327. It is a OOP Language: inheritance - interface; TIOBE - 78; year - 2018
+328. It is a OOP Language: inheritance - plural; TIOBE - 37; year - 1978
+329. It is a procedure Language: abstract - True; TIOBE - 67; year - 1962
+330. It is a functional Language: typization - static; Laziness -False; TIOBE - 50; year - 1983
+331. It is a procedure Language: abstract - True; TIOBE - 43; year - 2019
+332. It is a procedure Language: abstract - False; TIOBE - 51; year - 2012
+333. It is a functional Language: typization - static; Laziness -True; TIOBE - 23; year - 2009
+334. It is a procedure Language: abstract - True; TIOBE - 93; year - 1998
+335. It is a procedure Language: abstract - True; TIOBE - 18; year - 2014
+336. It is a OOP Language: inheritance - interface; TIOBE - 97; year - 2019
+337. It is a procedure Language: abstract - False; TIOBE - 35; year - 1989
+338. It is a functional Language: typization - static; Laziness -True; TIOBE - 26; year - 2011
+339. It is a functional Language: typization - static; Laziness -False; TIOBE - 6; year - 1976
+340. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 1996
+341. It is a procedure Language: abstract - True; TIOBE - 23; year - 1962
+342. It is a procedure Language: abstract - False; TIOBE - 65; year - 1969
+343. It is a functional Language: typization - static; Laziness -True; TIOBE - 96; year - 2014
+344. It is a functional Language: typization - static; Laziness -True; TIOBE - 97; year - 1961
+345. It is a procedure Language: abstract - True; TIOBE - 10; year - 1963
+346. It is a functional Language: typization - static; Laziness -True; TIOBE - 96; year - 1994
+347. It is a procedure Language: abstract - False; TIOBE - 93; year - 1990
+348. It is a procedure Language: abstract - True; TIOBE - 52; year - 1991
+349. It is a functional Language: typization - static; Laziness -True; TIOBE - 50; year - 2018
+350. It is a functional Language: typization - static; Laziness -False; TIOBE - 19; year - 1972
+351. It is a OOP Language: inheritance - plural; TIOBE - 21; year - 1988
+352. It is a functional Language: typization - static; Laziness -False; TIOBE - 74; year - 1972
+353. It is a OOP Language: inheritance - one; TIOBE - 6; year - 1986
+354. It is a functional Language: typization - static; Laziness -False; TIOBE - 38; year - 1960
+355. It is a OOP Language: inheritance - plural; TIOBE - 85; year - 1982
+356. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2013
+357. It is a procedure Language: abstract - False; TIOBE - 70; year - 1966
+358. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+359. It is a procedure Language: abstract - False; TIOBE - 7; year - 1967
+360. It is a OOP Language: inheritance - interface; TIOBE - 58; year - 2013
+361. It is a OOP Language: inheritance - plural; TIOBE - 54; year - 1970
+362. It is a functional Language: typization - static; Laziness -False; TIOBE - 34; year - 1978
+363. It is a functional Language: typization - static; Laziness -False; TIOBE - 50; year - 1993
+364. It is a OOP Language: inheritance - interface; TIOBE - 73; year - 2011
+365. It is a OOP Language: inheritance - plural; TIOBE - 2; year - 2001
+366. It is a OOP Language: inheritance - interface; TIOBE - 68; year - 1994
+367. It is a procedure Language: abstract - True; TIOBE - 94; year - 1996
+368. It is a OOP Language: inheritance - one; TIOBE - 63; year - 2016
+369. It is a procedure Language: abstract - False; TIOBE - 86; year - 1999
+370. It is a procedure Language: abstract - True; TIOBE - 73; year - 1978
+371. It is a functional Language: typization - static; Laziness -False; TIOBE - 30; year - 2006
+372. It is a functional Language: typization - static; Laziness -False; TIOBE - 62; year - 1991
+373. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 2016
+374. It is a procedure Language: abstract - False; TIOBE - 56; year - 1963
+375. It is a procedure Language: abstract - False; TIOBE - 28; year - 2014
+376. It is a functional Language: typization - static; Laziness -True; TIOBE - 76; year - 1995
+377. It is a procedure Language: abstract - True; TIOBE - 33; year - 2014
+378. It is a OOP Language: inheritance - interface; TIOBE - 98; year - 1996
+379. It is a functional Language: typization - static; Laziness -True; TIOBE - 40; year - 2006
+380. It is a functional Language: typization - static; Laziness -False; TIOBE - 84; year - 2014
+381. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1971
+382. It is a OOP Language: inheritance - one; TIOBE - 80; year - 1966
+383. It is a OOP Language: inheritance - plural; TIOBE - 40; year - 1998
+384. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1980
+385. It is a procedure Language: abstract - False; TIOBE - 4; year - 1986
+386. It is a OOP Language: inheritance - plural; TIOBE - 41; year - 1973
+387. It is a OOP Language: inheritance - plural; TIOBE - 3; year - 1973
+388. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 1987
+389. It is a OOP Language: inheritance - one; TIOBE - 57; year - 1989
+390. It is a functional Language: typization - static; Laziness -True; TIOBE - 70; year - 2002
+391. It is a OOP Language: inheritance - plural; TIOBE - 36; year - 2011
+392. It is a functional Language: typization - static; Laziness -True; TIOBE - 35; year - 1968
+393. It is a procedure Language: abstract - False; TIOBE - 98; year - 1966
+394. It is a procedure Language: abstract - True; TIOBE - 17; year - 1992
+395. It is a functional Language: typization - static; Laziness -False; TIOBE - 14; year - 1977
+396. It is a procedure Language: abstract - True; TIOBE - 64; year - 1991
+397. It is a procedure Language: abstract - True; TIOBE - 8; year - 2008
+398. It is a procedure Language: abstract - False; TIOBE - 24; year - 1964
+399. It is a procedure Language: abstract - False; TIOBE - 85; year - 1967
+400. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1976
+401. It is a OOP Language: inheritance - plural; TIOBE - 53; year - 1977
+402. It is a procedure Language: abstract - False; TIOBE - 22; year - 1994
+403. It is a OOP Language: inheritance - one; TIOBE - 74; year - 1995
+404. It is a procedure Language: abstract - True; TIOBE - 75; year - 1971
+405. It is a procedure Language: abstract - False; TIOBE - 52; year - 2000
+406. It is a OOP Language: inheritance - interface; TIOBE - 24; year - 1973
+407. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1996
+408. It is a functional Language: typization - static; Laziness -True; TIOBE - 4; year - 1970
+409. It is a functional Language: typization - static; Laziness -True; TIOBE - 47; year - 1976
+410. It is a procedure Language: abstract - True; TIOBE - 56; year - 1992
+411. It is a procedure Language: abstract - True; TIOBE - 52; year - 2006
+412. It is a procedure Language: abstract - False; TIOBE - 37; year - 1982
+413. It is a procedure Language: abstract - True; TIOBE - 11; year - 1990
+414. It is a procedure Language: abstract - False; TIOBE - 32; year - 1997
+415. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 1993
+416. It is a functional Language: typization - static; Laziness -False; TIOBE - 76; year - 1964
+417. It is a procedure Language: abstract - False; TIOBE - 41; year - 1979
+418. It is a functional Language: typization - static; Laziness -False; TIOBE - 53; year - 1985
+419. It is a functional Language: typization - static; Laziness -False; TIOBE - 60; year - 1986
+420. It is a OOP Language: inheritance - interface; TIOBE - 37; year - 2003
+421. It is a procedure Language: abstract - False; TIOBE - 8; year - 1991
+422. It is a functional Language: typization - static; Laziness -True; TIOBE - 4; year - 1989
+423. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 2002
+424. It is a OOP Language: inheritance - plural; TIOBE - 5; year - 1969
+425. It is a OOP Language: inheritance - plural; TIOBE - 6; year - 2006
+426. It is a OOP Language: inheritance - interface; TIOBE - 9; year - 1971
+427. It is a procedure Language: abstract - True; TIOBE - 27; year - 1976
+428. It is a procedure Language: abstract - False; TIOBE - 32; year - 2018
+429. It is a procedure Language: abstract - True; TIOBE - 46; year - 1993
+430. It is a procedure Language: abstract - True; TIOBE - 23; year - 1986
+431. It is a procedure Language: abstract - True; TIOBE - 68; year - 2016
+432. It is a functional Language: typization - static; Laziness -True; TIOBE - 61; year - 1999
+433. It is a procedure Language: abstract - True; TIOBE - 15; year - 1999
+434. It is a functional Language: typization - static; Laziness -True; TIOBE - 16; year - 2017
+435. It is a OOP Language: inheritance - plural; TIOBE - 11; year - 2003
+436. It is a functional Language: typization - static; Laziness -False; TIOBE - 57; year - 1962
+437. It is a functional Language: typization - static; Laziness -False; TIOBE - 69; year - 2001
+438. It is a OOP Language: inheritance - interface; TIOBE - 72; year - 1988
+439. It is a functional Language: typization - static; Laziness -True; TIOBE - 63; year - 1969
+440. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 1964
+441. It is a functional Language: typization - static; Laziness -False; TIOBE - 41; year - 1992
+442. It is a functional Language: typization - static; Laziness -True; TIOBE - 34; year - 1998
+443. It is a procedure Language: abstract - False; TIOBE - 54; year - 1987
+444. It is a OOP Language: inheritance - one; TIOBE - 33; year - 2001
+445. It is a procedure Language: abstract - False; TIOBE - 87; year - 1998
+446. It is a OOP Language: inheritance - one; TIOBE - 77; year - 2002
+447. It is a procedure Language: abstract - True; TIOBE - 90; year - 2000
+448. It is a functional Language: typization - static; Laziness -True; TIOBE - 3; year - 1972
+449. It is a procedure Language: abstract - True; TIOBE - 34; year - 1992
+450. It is a functional Language: typization - static; Laziness -False; TIOBE - 76; year - 1995
+451. It is a functional Language: typization - static; Laziness -False; TIOBE - 42; year - 1971
+452. It is a functional Language: typization - static; Laziness -False; TIOBE - 99; year - 1985
+453. It is a OOP Language: inheritance - interface; TIOBE - 64; year - 2019
+454. It is a procedure Language: abstract - False; TIOBE - 56; year - 2008
+455. It is a OOP Language: inheritance - one; TIOBE - 71; year - 1964
+456. It is a OOP Language: inheritance - one; TIOBE - 86; year - 1973
+457. It is a OOP Language: inheritance - interface; TIOBE - 5; year - 1969
+458. It is a functional Language: typization - static; Laziness -False; TIOBE - 100; year - 1998
+459. It is a OOP Language: inheritance - plural; TIOBE - 14; year - 1979
+460. It is a functional Language: typization - static; Laziness -True; TIOBE - 32; year - 1973
+461. It is a procedure Language: abstract - True; TIOBE - 35; year - 1971
+462. It is a OOP Language: inheritance - interface; TIOBE - 47; year - 2013
+463. It is a OOP Language: inheritance - interface; TIOBE - 99; year - 1962
+464. It is a procedure Language: abstract - False; TIOBE - 92; year - 1991
+465. It is a functional Language: typization - static; Laziness -True; TIOBE - 10; year - 2016
+466. It is a OOP Language: inheritance - interface; TIOBE - 69; year - 1978
+467. It is a functional Language: typization - static; Laziness -True; TIOBE - 86; year - 1965
+468. It is a functional Language: typization - static; Laziness -False; TIOBE - 85; year - 1963
+469. It is a procedure Language: abstract - False; TIOBE - 9; year - 1968
+470. It is a procedure Language: abstract - False; TIOBE - 29; year - 1983
+471. It is a functional Language: typization - static; Laziness -False; TIOBE - 51; year - 1999
+472. It is a functional Language: typization - static; Laziness -True; TIOBE - 46; year - 2010
+473. It is a functional Language: typization - static; Laziness -False; TIOBE - 73; year - 2005
+474. It is a functional Language: typization - static; Laziness -False; TIOBE - 94; year - 1995
+475. It is a functional Language: typization - static; Laziness -True; TIOBE - 15; year - 2018
+476. It is a functional Language: typization - static; Laziness -False; TIOBE - 18; year - 2002
+477. It is a OOP Language: inheritance - one; TIOBE - 4; year - 1962
+478. It is a procedure Language: abstract - True; TIOBE - 39; year - 1988
+479. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1963
+480. It is a procedure Language: abstract - True; TIOBE - 66; year - 1971
+481. It is a OOP Language: inheritance - plural; TIOBE - 23; year - 1990
+482. It is a OOP Language: inheritance - interface; TIOBE - 83; year - 1963
+483. It is a procedure Language: abstract - False; TIOBE - 54; year - 1961
+484. It is a OOP Language: inheritance - one; TIOBE - 13; year - 2013
+485. It is a procedure Language: abstract - False; TIOBE - 1; year - 2018
+486. It is a procedure Language: abstract - True; TIOBE - 90; year - 1969
+487. It is a OOP Language: inheritance - interface; TIOBE - 41; year - 1982
+488. It is a OOP Language: inheritance - plural; TIOBE - 66; year - 1996
+489. It is a procedure Language: abstract - True; TIOBE - 32; year - 1977
+490. It is a procedure Language: abstract - False; TIOBE - 22; year - 2003
+491. It is a functional Language: typization - static; Laziness -False; TIOBE - 39; year - 1964
+492. It is a functional Language: typization - static; Laziness -False; TIOBE - 17; year - 2018
+493. It is a procedure Language: abstract - False; TIOBE - 15; year - 1995
+494. It is a procedure Language: abstract - True; TIOBE - 82; year - 1968
+495. It is a functional Language: typization - static; Laziness -True; TIOBE - 37; year - 2005
+496. It is a OOP Language: inheritance - plural; TIOBE - 11; year - 2000
+497. It is a OOP Language: inheritance - one; TIOBE - 22; year - 1969
+498. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 2009
+499. It is a OOP Language: inheritance - plural; TIOBE - 33; year - 1981
+500. It is a procedure Language: abstract - True; TIOBE - 99; year - 2013
+Sorted container:
+
+Common function sum: 153694.62500000006
+
+Container stores 500 shapes:
+
+1. It is a OOP Language: inheritance - interface; TIOBE - 3; year - 2000
+2. It is a OOP Language: inheritance - interface; TIOBE - 5; year - 1969
+3. It is a OOP Language: inheritance - interface; TIOBE - 9; year - 1971
+4. It is a OOP Language: inheritance - interface; TIOBE - 9; year - 1971
+5. It is a OOP Language: inheritance - interface; TIOBE - 24; year - 1973
+6. It is a OOP Language: inheritance - interface; TIOBE - 24; year - 1973
+7. It is a OOP Language: inheritance - interface; TIOBE - 26; year - 1963
+8. It is a OOP Language: inheritance - interface; TIOBE - 26; year - 1963
+9. It is a OOP Language: inheritance - interface; TIOBE - 29; year - 2012
+10. It is a OOP Language: inheritance - interface; TIOBE - 36; year - 1990
+11. It is a OOP Language: inheritance - interface; TIOBE - 37; year - 2003
+12. It is a OOP Language: inheritance - interface; TIOBE - 41; year - 1982
+13. It is a OOP Language: inheritance - interface; TIOBE - 42; year - 1989
+14. It is a OOP Language: inheritance - interface; TIOBE - 42; year - 1989
+15. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+16. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+17. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+18. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+19. It is a OOP Language: inheritance - interface; TIOBE - 46; year - 1996
+20. It is a OOP Language: inheritance - interface; TIOBE - 47; year - 2010
+21. It is a OOP Language: inheritance - interface; TIOBE - 47; year - 2013
+22. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1971
+23. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1971
+24. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1999
+25. It is a OOP Language: inheritance - interface; TIOBE - 57; year - 1999
+26. It is a OOP Language: inheritance - interface; TIOBE - 58; year - 2000
+27. It is a OOP Language: inheritance - interface; TIOBE - 58; year - 2013
+28. It is a OOP Language: inheritance - interface; TIOBE - 64; year - 2019
+29. It is a OOP Language: inheritance - interface; TIOBE - 65; year - 2015
+30. It is a OOP Language: inheritance - interface; TIOBE - 65; year - 2015
+31. It is a OOP Language: inheritance - interface; TIOBE - 67; year - 1986
+32. It is a OOP Language: inheritance - interface; TIOBE - 68; year - 1994
+33. It is a OOP Language: inheritance - interface; TIOBE - 69; year - 1978
+34. It is a OOP Language: inheritance - interface; TIOBE - 72; year - 1963
+35. It is a OOP Language: inheritance - interface; TIOBE - 72; year - 1963
+36. It is a OOP Language: inheritance - interface; TIOBE - 72; year - 1988
+37. It is a OOP Language: inheritance - interface; TIOBE - 78; year - 2018
+38. It is a OOP Language: inheritance - interface; TIOBE - 78; year - 2018
+39. It is a OOP Language: inheritance - interface; TIOBE - 78; year - 2018
+40. It is a OOP Language: inheritance - interface; TIOBE - 83; year - 1963
+41. It is a OOP Language: inheritance - interface; TIOBE - 98; year - 1996
+42. It is a OOP Language: inheritance - interface; TIOBE - 98; year - 1996
+43. It is a OOP Language: inheritance - interface; TIOBE - 99; year - 1962
+44. It is a OOP Language: inheritance - one; TIOBE - 4; year - 1962
+45. It is a OOP Language: inheritance - one; TIOBE - 11; year - 1973
+46. It is a OOP Language: inheritance - one; TIOBE - 11; year - 1973
+47. It is a OOP Language: inheritance - one; TIOBE - 11; year - 1973
+48. It is a OOP Language: inheritance - one; TIOBE - 11; year - 1973
+49. It is a OOP Language: inheritance - one; TIOBE - 13; year - 2013
+50. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1963
+51. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1963
+52. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1986
+53. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1986
+54. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1986
+55. It is a OOP Language: inheritance - one; TIOBE - 20; year - 1986
+56. It is a OOP Language: inheritance - one; TIOBE - 21; year - 1982
+57. It is a OOP Language: inheritance - one; TIOBE - 22; year - 1969
+58. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+59. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+60. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+61. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+62. It is a OOP Language: inheritance - one; TIOBE - 32; year - 2007
+63. It is a OOP Language: inheritance - one; TIOBE - 33; year - 1963
+64. It is a OOP Language: inheritance - one; TIOBE - 33; year - 2001
+65. It is a OOP Language: inheritance - one; TIOBE - 40; year - 2018
+66. It is a OOP Language: inheritance - one; TIOBE - 40; year - 2018
+67. It is a OOP Language: inheritance - one; TIOBE - 41; year - 2013
+68. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+69. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+70. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+71. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+72. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1966
+73. It is a OOP Language: inheritance - one; TIOBE - 49; year - 1980
+74. It is a OOP Language: inheritance - one; TIOBE - 55; year - 1998
+75. It is a OOP Language: inheritance - one; TIOBE - 55; year - 1998
+76. It is a OOP Language: inheritance - one; TIOBE - 57; year - 1989
+77. It is a OOP Language: inheritance - one; TIOBE - 67; year - 2005
+78. It is a OOP Language: inheritance - one; TIOBE - 67; year - 2005
+79. It is a OOP Language: inheritance - one; TIOBE - 67; year - 2005
+80. It is a OOP Language: inheritance - one; TIOBE - 71; year - 1964
+81. It is a OOP Language: inheritance - one; TIOBE - 73; year - 2003
+82. It is a OOP Language: inheritance - one; TIOBE - 73; year - 2003
+83. It is a OOP Language: inheritance - one; TIOBE - 74; year - 1995
+84. It is a OOP Language: inheritance - one; TIOBE - 77; year - 2002
+85. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+86. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+87. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+88. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+89. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+90. It is a OOP Language: inheritance - one; TIOBE - 78; year - 2004
+91. It is a OOP Language: inheritance - one; TIOBE - 80; year - 1966
+92. It is a OOP Language: inheritance - one; TIOBE - 81; year - 1987
+93. It is a OOP Language: inheritance - one; TIOBE - 81; year - 1987
+94. It is a OOP Language: inheritance - one; TIOBE - 81; year - 1987
+95. It is a OOP Language: inheritance - one; TIOBE - 86; year - 1973
+96. It is a OOP Language: inheritance - one; TIOBE - 90; year - 2017
+97. It is a OOP Language: inheritance - one; TIOBE - 90; year - 2017
+98. It is a OOP Language: inheritance - one; TIOBE - 90; year - 2017
+99. It is a OOP Language: inheritance - one; TIOBE - 90; year - 2017
+100. It is a OOP Language: inheritance - one; TIOBE - 94; year - 1973
+101. It is a OOP Language: inheritance - one; TIOBE - 95; year - 1996
+102. It is a OOP Language: inheritance - one; TIOBE - 98; year - 1963
+103. It is a OOP Language: inheritance - one; TIOBE - 98; year - 1963
+104. It is a OOP Language: inheritance - one; TIOBE - 98; year - 1963
+105. It is a OOP Language: inheritance - plural; TIOBE - 2; year - 2001
+106. It is a OOP Language: inheritance - plural; TIOBE - 3; year - 1973
+107. It is a OOP Language: inheritance - plural; TIOBE - 5; year - 1969
+108. It is a OOP Language: inheritance - plural; TIOBE - 6; year - 2006
+109. It is a OOP Language: inheritance - plural; TIOBE - 11; year - 2000
+110. It is a OOP Language: inheritance - plural; TIOBE - 12; year - 1999
+111. It is a OOP Language: inheritance - plural; TIOBE - 12; year - 1999
+112. It is a OOP Language: inheritance - plural; TIOBE - 12; year - 1999
+113. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1976
+114. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+115. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+116. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+117. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+118. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+119. It is a OOP Language: inheritance - plural; TIOBE - 13; year - 1983
+120. It is a OOP Language: inheritance - plural; TIOBE - 14; year - 1979
+121. It is a OOP Language: inheritance - plural; TIOBE - 23; year - 1990
+122. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+123. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+124. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+125. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+126. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+127. It is a OOP Language: inheritance - plural; TIOBE - 32; year - 1996
+128. It is a OOP Language: inheritance - plural; TIOBE - 33; year - 1981
+129. It is a OOP Language: inheritance - plural; TIOBE - 40; year - 1998
+130. It is a OOP Language: inheritance - plural; TIOBE - 40; year - 1998
+131. It is a OOP Language: inheritance - plural; TIOBE - 40; year - 1998
+132. It is a OOP Language: inheritance - plural; TIOBE - 41; year - 1973
+133. It is a OOP Language: inheritance - plural; TIOBE - 50; year - 2003
+134. It is a OOP Language: inheritance - plural; TIOBE - 50; year - 2003
+135. It is a OOP Language: inheritance - plural; TIOBE - 53; year - 1977
+136. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+137. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+138. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+139. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+140. It is a OOP Language: inheritance - plural; TIOBE - 59; year - 2006
+141. It is a OOP Language: inheritance - plural; TIOBE - 66; year - 1996
+142. It is a OOP Language: inheritance - plural; TIOBE - 72; year - 1970
+143. It is a OOP Language: inheritance - plural; TIOBE - 72; year - 1970
+144. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1982
+145. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1982
+146. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1982
+147. It is a OOP Language: inheritance - plural; TIOBE - 74; year - 1982
+148. It is a OOP Language: inheritance - plural; TIOBE - 75; year - 2018
+149. It is a OOP Language: inheritance - plural; TIOBE - 76; year - 1999
+150. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2008
+151. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2008
+152. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2008
+153. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2008
+154. It is a OOP Language: inheritance - plural; TIOBE - 80; year - 2013
+155. It is a OOP Language: inheritance - plural; TIOBE - 83; year - 2012
+156. It is a OOP Language: inheritance - plural; TIOBE - 83; year - 2012
+157. It is a OOP Language: inheritance - plural; TIOBE - 85; year - 1982
+158. It is a OOP Language: inheritance - plural; TIOBE - 93; year - 2002
+159. It is a OOP Language: inheritance - plural; TIOBE - 93; year - 2002
+160. It is a functional Language: typization - static; Laziness -False; TIOBE - 2; year - 1986
+161. It is a functional Language: typization - static; Laziness -False; TIOBE - 6; year - 1976
+162. It is a functional Language: typization - static; Laziness -False; TIOBE - 12; year - 1980
+163. It is a functional Language: typization - static; Laziness -False; TIOBE - 12; year - 1980
+164. It is a functional Language: typization - static; Laziness -False; TIOBE - 13; year - 2012
+165. It is a functional Language: typization - static; Laziness -False; TIOBE - 14; year - 1977
+166. It is a functional Language: typization - static; Laziness -False; TIOBE - 17; year - 2018
+167. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1974
+168. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1974
+169. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1974
+170. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1974
+171. It is a functional Language: typization - static; Laziness -False; TIOBE - 22; year - 1996
+172. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 1987
+173. It is a functional Language: typization - static; Laziness -False; TIOBE - 25; year - 1987
+174. It is a functional Language: typization - static; Laziness -False; TIOBE - 30; year - 2006
+175. It is a functional Language: typization - static; Laziness -False; TIOBE - 30; year - 2006
+176. It is a functional Language: typization - static; Laziness -False; TIOBE - 33; year - 1974
+177. It is a functional Language: typization - static; Laziness -False; TIOBE - 33; year - 1974
+178. It is a functional Language: typization - static; Laziness -False; TIOBE - 33; year - 1974
+179. It is a functional Language: typization - static; Laziness -False; TIOBE - 34; year - 1978
+180. It is a functional Language: typization - static; Laziness -False; TIOBE - 39; year - 1964
+181. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+182. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+183. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+184. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+185. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 1987
+186. It is a functional Language: typization - static; Laziness -False; TIOBE - 40; year - 2002
+187. It is a functional Language: typization - static; Laziness -False; TIOBE - 41; year - 1992
+188. It is a functional Language: typization - static; Laziness -False; TIOBE - 42; year - 1971
+189. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+190. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+191. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+192. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+193. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 1984
+194. It is a functional Language: typization - static; Laziness -False; TIOBE - 47; year - 2009
+195. It is a functional Language: typization - static; Laziness -False; TIOBE - 50; year - 1983
+196. It is a functional Language: typization - static; Laziness -False; TIOBE - 50; year - 1983
+197. It is a functional Language: typization - static; Laziness -False; TIOBE - 50; year - 1993
+198. It is a functional Language: typization - static; Laziness -False; TIOBE - 51; year - 1999
+199. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 2005
+200. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 2005
+201. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 2005
+202. It is a functional Language: typization - static; Laziness -False; TIOBE - 54; year - 2005
+203. It is a functional Language: typization - static; Laziness -False; TIOBE - 57; year - 1962
+204. It is a functional Language: typization - static; Laziness -False; TIOBE - 58; year - 1985
+205. It is a functional Language: typization - static; Laziness -False; TIOBE - 58; year - 1985
+206. It is a functional Language: typization - static; Laziness -False; TIOBE - 60; year - 1986
+207. It is a functional Language: typization - static; Laziness -False; TIOBE - 69; year - 2001
+208. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 1965
+209. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 1965
+210. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 1965
+211. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 1965
+212. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 2018
+213. It is a functional Language: typization - static; Laziness -False; TIOBE - 70; year - 2018
+214. It is a functional Language: typization - static; Laziness -False; TIOBE - 71; year - 1972
+215. It is a functional Language: typization - static; Laziness -False; TIOBE - 73; year - 1964
+216. It is a functional Language: typization - static; Laziness -False; TIOBE - 73; year - 2005
+217. It is a functional Language: typization - static; Laziness -False; TIOBE - 76; year - 1964
+218. It is a functional Language: typization - static; Laziness -False; TIOBE - 76; year - 1964
+219. It is a functional Language: typization - static; Laziness -False; TIOBE - 76; year - 1995
+220. It is a functional Language: typization - static; Laziness -False; TIOBE - 77; year - 1974
+221. It is a functional Language: typization - static; Laziness -False; TIOBE - 77; year - 1974
+222. It is a functional Language: typization - static; Laziness -False; TIOBE - 77; year - 1974
+223. It is a functional Language: typization - static; Laziness -False; TIOBE - 77; year - 1974
+224. It is a functional Language: typization - static; Laziness -False; TIOBE - 78; year - 1965
+225. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+226. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+227. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+228. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+229. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+230. It is a functional Language: typization - static; Laziness -False; TIOBE - 81; year - 1992
+231. It is a functional Language: typization - static; Laziness -False; TIOBE - 82; year - 1985
+232. It is a functional Language: typization - static; Laziness -False; TIOBE - 83; year - 1977
+233. It is a functional Language: typization - static; Laziness -False; TIOBE - 84; year - 1963
+234. It is a functional Language: typization - static; Laziness -False; TIOBE - 84; year - 2014
+235. It is a functional Language: typization - static; Laziness -False; TIOBE - 85; year - 1963
+236. It is a functional Language: typization - static; Laziness -False; TIOBE - 90; year - 2009
+237. It is a functional Language: typization - static; Laziness -False; TIOBE - 90; year - 2009
+238. It is a functional Language: typization - static; Laziness -False; TIOBE - 90; year - 2009
+239. It is a functional Language: typization - static; Laziness -False; TIOBE - 91; year - 1989
+240. It is a functional Language: typization - static; Laziness -False; TIOBE - 94; year - 1995
+241. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+242. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+243. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+244. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+245. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2011
+246. It is a functional Language: typization - static; Laziness -False; TIOBE - 96; year - 2018
+247. It is a functional Language: typization - static; Laziness -False; TIOBE - 99; year - 1985
+248. It is a functional Language: typization - static; Laziness -False; TIOBE - 100; year - 1998
+249. It is a functional Language: typization - static; Laziness -True; TIOBE - 4; year - 1989
+250. It is a functional Language: typization - static; Laziness -True; TIOBE - 4; year - 1989
+251. It is a functional Language: typization - static; Laziness -True; TIOBE - 4; year - 1989
+252. It is a functional Language: typization - static; Laziness -True; TIOBE - 7; year - 2001
+253. It is a functional Language: typization - static; Laziness -True; TIOBE - 7; year - 2001
+254. It is a functional Language: typization - static; Laziness -True; TIOBE - 7; year - 2001
+255. It is a functional Language: typization - static; Laziness -True; TIOBE - 7; year - 2001
+256. It is a functional Language: typization - static; Laziness -True; TIOBE - 8; year - 1997
+257. It is a functional Language: typization - static; Laziness -True; TIOBE - 9; year - 1984
+258. It is a functional Language: typization - static; Laziness -True; TIOBE - 10; year - 2016
+259. It is a functional Language: typization - static; Laziness -True; TIOBE - 13; year - 1991
+260. It is a functional Language: typization - static; Laziness -True; TIOBE - 13; year - 1991
+261. It is a functional Language: typization - static; Laziness -True; TIOBE - 13; year - 1991
+262. It is a functional Language: typization - static; Laziness -True; TIOBE - 15; year - 2018
+263. It is a functional Language: typization - static; Laziness -True; TIOBE - 16; year - 2017
+264. It is a functional Language: typization - static; Laziness -True; TIOBE - 16; year - 2017
+265. It is a functional Language: typization - static; Laziness -True; TIOBE - 21; year - 1982
+266. It is a functional Language: typization - static; Laziness -True; TIOBE - 21; year - 1982
+267. It is a functional Language: typization - static; Laziness -True; TIOBE - 23; year - 2009
+268. It is a functional Language: typization - static; Laziness -True; TIOBE - 26; year - 2011
+269. It is a functional Language: typization - static; Laziness -True; TIOBE - 28; year - 2010
+270. It is a functional Language: typization - static; Laziness -True; TIOBE - 28; year - 2010
+271. It is a functional Language: typization - static; Laziness -True; TIOBE - 28; year - 2010
+272. It is a functional Language: typization - static; Laziness -True; TIOBE - 31; year - 2000
+273. It is a functional Language: typization - static; Laziness -True; TIOBE - 32; year - 1973
+274. It is a functional Language: typization - static; Laziness -True; TIOBE - 34; year - 1998
+275. It is a functional Language: typization - static; Laziness -True; TIOBE - 34; year - 1998
+276. It is a functional Language: typization - static; Laziness -True; TIOBE - 37; year - 2005
+277. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+278. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+279. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+280. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+281. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+282. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1963
+283. It is a functional Language: typization - static; Laziness -True; TIOBE - 45; year - 1999
+284. It is a functional Language: typization - static; Laziness -True; TIOBE - 46; year - 2010
+285. It is a functional Language: typization - static; Laziness -True; TIOBE - 48; year - 1962
+286. It is a functional Language: typization - static; Laziness -True; TIOBE - 48; year - 1962
+287. It is a functional Language: typization - static; Laziness -True; TIOBE - 48; year - 1962
+288. It is a functional Language: typization - static; Laziness -True; TIOBE - 50; year - 2018
+289. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1972
+290. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1972
+291. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1972
+292. It is a functional Language: typization - static; Laziness -True; TIOBE - 53; year - 1979
+293. It is a functional Language: typization - static; Laziness -True; TIOBE - 58; year - 1980
+294. It is a functional Language: typization - static; Laziness -True; TIOBE - 58; year - 1980
+295. It is a functional Language: typization - static; Laziness -True; TIOBE - 59; year - 2015
+296. It is a functional Language: typization - static; Laziness -True; TIOBE - 61; year - 1960
+297. It is a functional Language: typization - static; Laziness -True; TIOBE - 61; year - 1999
+298. It is a functional Language: typization - static; Laziness -True; TIOBE - 63; year - 1969
+299. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+300. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+301. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+302. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+303. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+304. It is a functional Language: typization - static; Laziness -True; TIOBE - 66; year - 2000
+305. It is a functional Language: typization - static; Laziness -True; TIOBE - 69; year - 2017
+306. It is a functional Language: typization - static; Laziness -True; TIOBE - 70; year - 2002
+307. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 1993
+308. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 2016
+309. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 2016
+310. It is a functional Language: typization - static; Laziness -True; TIOBE - 83; year - 2016
+311. It is a functional Language: typization - static; Laziness -True; TIOBE - 84; year - 1991
+312. It is a functional Language: typization - static; Laziness -True; TIOBE - 84; year - 1991
+313. It is a functional Language: typization - static; Laziness -True; TIOBE - 86; year - 1965
+314. It is a functional Language: typization - static; Laziness -True; TIOBE - 91; year - 1982
+315. It is a functional Language: typization - static; Laziness -True; TIOBE - 91; year - 1982
+316. It is a functional Language: typization - static; Laziness -True; TIOBE - 93; year - 1964
+317. It is a functional Language: typization - static; Laziness -True; TIOBE - 93; year - 1977
+318. It is a functional Language: typization - static; Laziness -True; TIOBE - 94; year - 2004
+319. It is a functional Language: typization - static; Laziness -True; TIOBE - 94; year - 2004
+320. It is a functional Language: typization - static; Laziness -True; TIOBE - 96; year - 1994
+321. It is a functional Language: typization - static; Laziness -True; TIOBE - 97; year - 1961
+322. It is a functional Language: typization - static; Laziness -True; TIOBE - 97; year - 1961
+323. It is a procedure Language: abstract - False; TIOBE - 1; year - 2018
+324. It is a procedure Language: abstract - False; TIOBE - 4; year - 1997
+325. It is a procedure Language: abstract - False; TIOBE - 4; year - 1997
+326. It is a procedure Language: abstract - False; TIOBE - 4; year - 1997
+327. It is a procedure Language: abstract - False; TIOBE - 4; year - 1997
+328. It is a procedure Language: abstract - False; TIOBE - 4; year - 2015
+329. It is a procedure Language: abstract - False; TIOBE - 4; year - 2015
+330. It is a procedure Language: abstract - False; TIOBE - 4; year - 2015
+331. It is a procedure Language: abstract - False; TIOBE - 6; year - 2000
+332. It is a procedure Language: abstract - False; TIOBE - 7; year - 1967
+333. It is a procedure Language: abstract - False; TIOBE - 8; year - 1991
+334. It is a procedure Language: abstract - False; TIOBE - 9; year - 1968
+335. It is a procedure Language: abstract - False; TIOBE - 15; year - 1995
+336. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+337. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+338. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+339. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+340. It is a procedure Language: abstract - False; TIOBE - 24; year - 2009
+341. It is a procedure Language: abstract - False; TIOBE - 26; year - 1992
+342. It is a procedure Language: abstract - False; TIOBE - 26; year - 1992
+343. It is a procedure Language: abstract - False; TIOBE - 26; year - 1992
+344. It is a procedure Language: abstract - False; TIOBE - 26; year - 1992
+345. It is a procedure Language: abstract - False; TIOBE - 28; year - 2014
+346. It is a procedure Language: abstract - False; TIOBE - 29; year - 1983
+347. It is a procedure Language: abstract - False; TIOBE - 32; year - 2018
+348. It is a procedure Language: abstract - False; TIOBE - 32; year - 2018
+349. It is a procedure Language: abstract - False; TIOBE - 33; year - 1966
+350. It is a procedure Language: abstract - False; TIOBE - 33; year - 1966
+351. It is a procedure Language: abstract - False; TIOBE - 33; year - 1990
+352. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+353. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+354. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+355. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+356. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+357. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+358. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+359. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+360. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+361. It is a procedure Language: abstract - False; TIOBE - 33; year - 2001
+362. It is a procedure Language: abstract - False; TIOBE - 35; year - 1989
+363. It is a procedure Language: abstract - False; TIOBE - 37; year - 1982
+364. It is a procedure Language: abstract - False; TIOBE - 37; year - 1995
+365. It is a procedure Language: abstract - False; TIOBE - 37; year - 1995
+366. It is a procedure Language: abstract - False; TIOBE - 38; year - 2003
+367. It is a procedure Language: abstract - False; TIOBE - 40; year - 1994
+368. It is a procedure Language: abstract - False; TIOBE - 40; year - 1994
+369. It is a procedure Language: abstract - False; TIOBE - 41; year - 1979
+370. It is a procedure Language: abstract - False; TIOBE - 52; year - 2000
+371. It is a procedure Language: abstract - False; TIOBE - 52; year - 2000
+372. It is a procedure Language: abstract - False; TIOBE - 54; year - 1961
+373. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+374. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+375. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+376. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+377. It is a procedure Language: abstract - False; TIOBE - 55; year - 2000
+378. It is a procedure Language: abstract - False; TIOBE - 56; year - 1963
+379. It is a procedure Language: abstract - False; TIOBE - 56; year - 2008
+380. It is a procedure Language: abstract - False; TIOBE - 65; year - 1969
+381. It is a procedure Language: abstract - False; TIOBE - 65; year - 1969
+382. It is a procedure Language: abstract - False; TIOBE - 70; year - 1966
+383. It is a procedure Language: abstract - False; TIOBE - 70; year - 1989
+384. It is a procedure Language: abstract - False; TIOBE - 70; year - 1989
+385. It is a procedure Language: abstract - False; TIOBE - 70; year - 1989
+386. It is a procedure Language: abstract - False; TIOBE - 70; year - 1989
+387. It is a procedure Language: abstract - False; TIOBE - 71; year - 1985
+388. It is a procedure Language: abstract - False; TIOBE - 72; year - 2005
+389. It is a procedure Language: abstract - False; TIOBE - 73; year - 1982
+390. It is a procedure Language: abstract - False; TIOBE - 73; year - 1982
+391. It is a procedure Language: abstract - False; TIOBE - 78; year - 1984
+392. It is a procedure Language: abstract - False; TIOBE - 79; year - 1975
+393. It is a procedure Language: abstract - False; TIOBE - 82; year - 1994
+394. It is a procedure Language: abstract - False; TIOBE - 85; year - 1967
+395. It is a procedure Language: abstract - False; TIOBE - 87; year - 1998
+396. It is a procedure Language: abstract - False; TIOBE - 92; year - 1991
+397. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+398. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+399. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+400. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+401. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+402. It is a procedure Language: abstract - False; TIOBE - 92; year - 2016
+403. It is a procedure Language: abstract - False; TIOBE - 93; year - 1990
+404. It is a procedure Language: abstract - False; TIOBE - 95; year - 1968
+405. It is a procedure Language: abstract - False; TIOBE - 95; year - 1968
+406. It is a procedure Language: abstract - False; TIOBE - 95; year - 1968
+407. It is a procedure Language: abstract - False; TIOBE - 98; year - 1966
+408. It is a procedure Language: abstract - True; TIOBE - 1; year - 1969
+409. It is a procedure Language: abstract - True; TIOBE - 1; year - 1969
+410. It is a procedure Language: abstract - True; TIOBE - 1; year - 1969
+411. It is a procedure Language: abstract - True; TIOBE - 1; year - 1969
+412. It is a procedure Language: abstract - True; TIOBE - 2; year - 2016
+413. It is a procedure Language: abstract - True; TIOBE - 7; year - 1964
+414. It is a procedure Language: abstract - True; TIOBE - 8; year - 2008
+415. It is a procedure Language: abstract - True; TIOBE - 11; year - 1990
+416. It is a procedure Language: abstract - True; TIOBE - 12; year - 1997
+417. It is a procedure Language: abstract - True; TIOBE - 12; year - 1997
+418. It is a procedure Language: abstract - True; TIOBE - 12; year - 1997
+419. It is a procedure Language: abstract - True; TIOBE - 15; year - 1999
+420. It is a procedure Language: abstract - True; TIOBE - 23; year - 1962
+421. It is a procedure Language: abstract - True; TIOBE - 23; year - 1962
+422. It is a procedure Language: abstract - True; TIOBE - 23; year - 1962
+423. It is a procedure Language: abstract - True; TIOBE - 23; year - 1986
+424. It is a procedure Language: abstract - True; TIOBE - 32; year - 1977
+425. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+426. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+427. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+428. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+429. It is a procedure Language: abstract - True; TIOBE - 33; year - 2007
+430. It is a procedure Language: abstract - True; TIOBE - 33; year - 2014
+431. It is a procedure Language: abstract - True; TIOBE - 34; year - 1992
+432. It is a procedure Language: abstract - True; TIOBE - 35; year - 1971
+433. It is a procedure Language: abstract - True; TIOBE - 39; year - 1988
+434. It is a procedure Language: abstract - True; TIOBE - 43; year - 2019
+435. It is a procedure Language: abstract - True; TIOBE - 43; year - 2019
+436. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+437. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+438. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+439. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+440. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+441. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+442. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+443. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+444. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+445. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+446. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+447. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+448. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+449. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+450. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+451. It is a procedure Language: abstract - True; TIOBE - 44; year - 1964
+452. It is a procedure Language: abstract - True; TIOBE - 46; year - 1993
+453. It is a procedure Language: abstract - True; TIOBE - 52; year - 1991
+454. It is a procedure Language: abstract - True; TIOBE - 52; year - 1991
+455. It is a procedure Language: abstract - True; TIOBE - 52; year - 2006
+456. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+457. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+458. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+459. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+460. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+461. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+462. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+463. It is a procedure Language: abstract - True; TIOBE - 63; year - 1989
+464. It is a procedure Language: abstract - True; TIOBE - 64; year - 1976
+465. It is a procedure Language: abstract - True; TIOBE - 64; year - 1991
+466. It is a procedure Language: abstract - True; TIOBE - 66; year - 1971
+467. It is a procedure Language: abstract - True; TIOBE - 66; year - 1987
+468. It is a procedure Language: abstract - True; TIOBE - 66; year - 1987
+469. It is a procedure Language: abstract - True; TIOBE - 67; year - 1962
+470. It is a procedure Language: abstract - True; TIOBE - 68; year - 2016
+471. It is a procedure Language: abstract - True; TIOBE - 70; year - 1974
+472. It is a procedure Language: abstract - True; TIOBE - 70; year - 1974
+473. It is a procedure Language: abstract - True; TIOBE - 73; year - 1978
+474. It is a procedure Language: abstract - True; TIOBE - 74; year - 1967
+475. It is a procedure Language: abstract - True; TIOBE - 74; year - 1967
+476. It is a procedure Language: abstract - True; TIOBE - 74; year - 1967
+477. It is a procedure Language: abstract - True; TIOBE - 75; year - 1971
+478. It is a procedure Language: abstract - True; TIOBE - 76; year - 2019
+479. It is a procedure Language: abstract - True; TIOBE - 76; year - 2019
+480. It is a procedure Language: abstract - True; TIOBE - 76; year - 2019
+481. It is a procedure Language: abstract - True; TIOBE - 76; year - 2019
+482. It is a procedure Language: abstract - True; TIOBE - 79; year - 1974
+483. It is a procedure Language: abstract - True; TIOBE - 82; year - 1968
+484. It is a procedure Language: abstract - True; TIOBE - 88; year - 1979
+485. It is a procedure Language: abstract - True; TIOBE - 88; year - 1979
+486. It is a procedure Language: abstract - True; TIOBE - 90; year - 1969
+487. It is a procedure Language: abstract - True; TIOBE - 94; year - 1996
+488. It is a procedure Language: abstract - True; TIOBE - 94; year - 1996
+489. It is a procedure Language: abstract - True; TIOBE - 94; year - 1996
+490. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+491. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+492. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+493. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+494. It is a procedure Language: abstract - True; TIOBE - 94; year - 1998
+495. It is a procedure Language: abstract - True; TIOBE - 95; year - 1992
+496. It is a procedure Language: abstract - True; TIOBE - 98; year - 1972
+497. It is a procedure Language: abstract - True; TIOBE - 98; year - 1972
+498. It is a procedure Language: abstract - True; TIOBE - 99; year - 2013
+499. It is a procedure Language: abstract - True; TIOBE - 100; year - 1963
+500. It is a procedure Language: abstract - True; TIOBE - 100; year - 1963

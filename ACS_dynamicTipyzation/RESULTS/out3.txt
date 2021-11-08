@@ -1,0 +1,14 @@
+Container stores 3 shapes:
+
+1. It is a procedure Language: abstract - True; TIOBE - 78; year - 1969
+2. It is a OOP Language: inheritance - plural; TIOBE - 67; year - 2000
+3. It is a OOP Language: inheritance - one; TIOBE - 77; year - 1980
+Sorted container:
+
+Common function sum: 1572.7916666666665
+
+Container stores 3 shapes:
+
+1. It is a OOP Language: inheritance - one; TIOBE - 77; year - 1980
+2. It is a OOP Language: inheritance - plural; TIOBE - 67; year - 2000
+3. It is a OOP Language: inheritance - plural; TIOBE - 67; year - 2000
